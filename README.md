@@ -1,0 +1,1 @@
+# Trabalho_Paradigmas_de_Linguagem_Programacao
